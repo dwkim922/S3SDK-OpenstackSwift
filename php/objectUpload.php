@@ -13,8 +13,8 @@ $client = new Aws\S3\S3Client([
  'endpoint' => 'https://vsa-00000004-kt-g-object-01.zadarazios.com',
  'use_path_style_endpoint' => true, // <---- 추가 기입 해주세요! 
  'credentials' => [
- 'key' => 'ffa3c9a5c455472b8c8c88a74e7006e1',
- 'secret' => '590804fe73db4b15b98c005c1de55eeb',
+ 'key' => '',
+ 'secret' => '',
  ]
 ]);
 
