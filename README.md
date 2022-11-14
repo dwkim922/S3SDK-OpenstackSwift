@@ -1,5 +1,5 @@
 # S3SDK-Openstack Swift
-S3 SDK example with Openstack Swift
+Using S3-SDK on an Openstack Swift (Object Storage) environment examples
 
 /php - make sure `require` is assigned to the correct S3 PHP SDK install path
 
